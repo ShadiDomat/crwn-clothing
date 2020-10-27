@@ -1,3 +1,7 @@
+# What's this?
+
+I just wanted to learn React. So this is only a fun project build with help from my course at [https://www.udemy.com/course/complete-react-developer-zero-to-mastery](Udemy.com).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
